@@ -1,0 +1,12 @@
+x = float(4.2)
+y = float(10)
+z = float(15)
+a = float(20)
+b = float(25)
+c = float(30)
+
+print("For the user running", y, "minutes the burned a total of", x * y, "calories.")
+print("For the user running", z, "minutes the burned a total of", x * z, "calories.")
+print("For the user running", a, "minutes the burned a total of", x * a, "calories.")
+print("For the user running", b, "minutes the burned a total of", x * b, "calories.")
+print("For the user running", c, "minutes the burned a total of", x * c, "calories.")
